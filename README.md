@@ -1,5 +1,11 @@
-- 👋 Hi, I’m @Sironi-00
-- 👀 I’m interested in Everything Computer Sciences
-- 🌱 I’m interested and currently learning Python, Java, SQL, HTML, CSS, JavaScript and Rust. 
-- 💞️ I’m looking to collaborate on any project that will give me experiences and enhance my knowledge.
+👋 Hi, I’m @Sironi-00
 - freeCodeCamp profile: https://www.freecodecamp.org/Sironi-00
+
+I have experience with Python, Java, SQL, HTML, CSS, JavaScript and Rust.
+Currenty focusing on learning Web Development (Html, CSS, JavaScript, React and ++ )
+- 🌱 I enjoy coding and want to build many programs, And I can only do that learning and trying.
+- My curiosity is what pushes me to learn and understand how things work.
+
+### Words
+- We lost it's fine we'll come back again 
+- We won hooray now what else can we do.
